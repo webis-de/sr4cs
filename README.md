@@ -1,4 +1,4 @@
-# SR4CS — Systematic Reviews for Computer Science
+# SR4CS — Systematic Review Test Collection for Computer Science
 
 ### Overview
 
